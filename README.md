@@ -1,2 +1,1 @@
-My first readme. Tips
-Updated from github
+My first readme. Tips AND Updated from github
